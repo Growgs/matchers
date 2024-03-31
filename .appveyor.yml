@@ -1,8 +1,3 @@
-image: Ubuntu1801
-
-stack: node12
-
-
 environment:
   nodejs_version: "18"
 
@@ -23,3 +18,4 @@ build_script:
 
 test_script:
   - npm run lint && npm test  # скрипт тестирования
+
