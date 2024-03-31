@@ -1,3 +1,8 @@
+image: Ubuntu1801
+
+stack: node12
+
+
 environment:
   nodejs_version: "18"
 
